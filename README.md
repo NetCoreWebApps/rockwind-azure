@@ -25,6 +25,13 @@ After storage is created click on all resources and type storage name. You will 
 
 ### Create Azure Container Registry
 
+Azure Container Registry privately holds docker containers which can be used as containers storage source for Azure Web Applications. To create registry select `Containers` and `Azure Container Registry` fill up the name, resource group and enable admin access to the registry.
+
+![Azure Registry Settings](docs/images/1-createregistry.png)
+
+Open created registry and click on `Access Keys` tab. You will see registry username and password which will be used on next step when docker image will be pushed to the registry.
+
+![Azure Registry Settings](docs/images/2-registrysettings.png)
 
 
 ### Build and Publish Docker Image to Azure Registry
