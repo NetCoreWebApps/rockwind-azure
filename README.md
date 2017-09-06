@@ -1,5 +1,9 @@
 # Rockwind.Azure
 
+[![](http://templates.servicestack.net/assets/img/screenshots/rockwind.png)](http://rockwind.azurewebsites.net)
+
+> Live Demo: http://rockwind.azurewebsites.net
+
 Rockwind Cloud Web App on Azure demostrates how to use ServiceStack templates, host static files on Azure Blob Storage and publish application as docker container to Azure Web Application.
 
 ## Prepare Azure to host application
