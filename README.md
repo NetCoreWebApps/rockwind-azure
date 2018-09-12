@@ -1,4 +1,4 @@
-# rockwind-aws
+# rockwind-azure
 
 rockwind-azure is a [Pure Cloud App](http://templates.servicestack.net/docs/web-apps#pure-cloud-apps) Rockwind example website running entirely on Azure
 
