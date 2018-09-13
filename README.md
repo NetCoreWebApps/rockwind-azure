@@ -20,6 +20,8 @@ Run as a .NET Core Web App (Windows, macOS, Linux):
     $ web install rockwind-azure
     $ cd rockwind-azure && web app.sqlite.settings
 
+> Requires [.NET Core 2.1](https://www.microsoft.com/net/download/dotnet-core/2.1).
+
 ### Run on Azure
 
 Rockwind Cloud Web App on Azure demostrates how to use ServiceStack templates, host static files on Azure Blob Storage and publish application as docker container to Azure Web Application.
